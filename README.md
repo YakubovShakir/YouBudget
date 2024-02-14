@@ -1,7 +1,7 @@
 # YouBudget - finance mobile app
 
 
-##### Table of Contents  
+## Table of Contents  
 - [Built With](#built_with)
 - [App](#app)
     
