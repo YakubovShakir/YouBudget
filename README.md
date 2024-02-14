@@ -25,8 +25,8 @@
     </tr>
     <tr align="center">
         <td>Back End</td>
-        <td>Python</td>
         <td>Flask</td>
+        <td>Python</td>
     </tr>
     <tr align="center">
         <td>Database</td>
