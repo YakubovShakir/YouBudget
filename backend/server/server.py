@@ -5,7 +5,7 @@ from uuid import uuid4
 
 app = Flask(__name__)
 
-app.config['SQLALCHEMY_DATABASE_URI']='postgresql://postgres:1324@localhost/youbudget'
+app.config['SQLALCHEMY_DATABASE_URI']='postgresql://user:pass@localhost/dbname'
 
 bcrypt = Bcrypt(app)
 db=SQLAlchemy(app)
