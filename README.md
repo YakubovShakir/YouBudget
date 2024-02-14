@@ -2,11 +2,12 @@
 
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+- [Built With](#built_with)
+- [App](#app)
     
 
 
+<a name="built_with"/>
 
 ## Built With
 
@@ -38,6 +39,7 @@ React-Native - A JavaScript library for building user interfaces
 
 PostgreSQL - A relational database management system to store data.
 
+<a name="app"/>
 
 ## App
 
@@ -76,8 +78,8 @@ PostgreSQL - A relational database management system to store data.
 ---
 
 
-<a name="headers"/>
-## Headers
+
+
 
 
 
